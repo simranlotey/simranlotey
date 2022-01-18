@@ -10,6 +10,7 @@
 - My Favorite Language is JavaScript😄
 - Learning new things is my second highest priority, learn to manage things is still first
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=0e75b6&style=flat" alt="simranlotey" /> </p>
 
 **Languages and Tools:** 
 

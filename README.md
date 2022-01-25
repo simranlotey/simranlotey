@@ -3,11 +3,11 @@
 
 **About me**
 
-- My Name is Simranpreet Singh 👳
-- I'm BCA Student of Guru Nanak Insititute Of Management & Technology 👨‍🎓
-- I Am Frontend Developer 💻
-- I Work In HTML5, Css, Bootsrap, SCSS, SASS, Javascript, ⚛️ReactJS⚛️, Typescript, Git
-- My Favorite Language is JavaScript😄
+- My name is Simranpreet Singh 👳
+- I'm BCA Student of guru nanak insititute of management & technology 👨‍🎓
+- I am frontend developer 💻
+- I work in HTML5, Css, Bootsrap, SCSS, SASS, Javascript, ⚛️ReactJS⚛️, Typescript, Git
+- My favorite language is javaScript😄
 - Learning new things is my second highest priority, learn to manage things is still first
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=0e75b6&style=flat" alt="simranlotey" /> </p>

@@ -30,7 +30,9 @@
 | ------------- | ------------- |
 
 <br /> 
-
+<div align=center>
+    <img alt="simranlotey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simranlotey&bg_color=1F222E&theme=moltack" />
+</div>
 <p align="left">
 <a href="https://twitter.com/simranloteyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simranloteyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simranlotey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simranlotey" height="30" width="40" /></a>

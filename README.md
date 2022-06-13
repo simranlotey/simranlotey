@@ -25,7 +25,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=simranlotey&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true" alt="simranlotey's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranlotey&theme=moltack&hide_border=true" /></a> |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=simranlotey&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true" alt="simranlotey's github stats" /></a> |  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranlotey&theme=moltack&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p align="left">

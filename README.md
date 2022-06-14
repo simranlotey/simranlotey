@@ -6,7 +6,7 @@
 - My name is simranpreet singh 👳
 - I'm BCA student of guru nanak institute of management & technology 👨‍🎓
 - I am frontend developer.
-- I work in HTML5, CSS, Bootstrap, Tailwind CSS, SCSS, SASS, JavaScript, Material UI, ⚛️ReactJS⚛️, Git.
+- I work in HTML5, CSS, Bootstrap, SCSS, SASS, JavaScript, Material UI, ⚛️ReactJs, Git.
 - My favorite language is javaScript.
 - Learning new things is my second highest priority, learn to manage things is still first.
 

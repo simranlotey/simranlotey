@@ -5,7 +5,7 @@
 
 - My name is simranpreet singh 👳
 - I'm MCA student of guru nanak dev engineering college 👨‍🎓
-- I am full-stack developer
+- I am frontend developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=0e75b6&style=flat" alt="simranlotey" /> </p>
 

@@ -22,8 +22,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranlotey&theme=codeSTACKr&layout=compact&hide_border=true" /> 
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranlotey&theme=codeSTACKr&layout=compact&hide_border=true" /> 
+ -->
 <p align="left">
 <a href="https://twitter.com/simranloteyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simranloteyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simranloteyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simranloteyy" height="30" width="40" /></a>

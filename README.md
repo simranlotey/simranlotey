@@ -3,9 +3,12 @@
 
 **About me**
 
-- My name is simranpreet singh
-- I'm MCA student of guru nanak dev engineering college 👨‍🎓
-- I'm frontend developer
+- My name is Simranpreet Singh
+- I'm MCA student of Guru Nanak Dev Engineering College 👨‍🎓
+- I'm Frontend developer
+- I’m looking to collaborate on Opensource projects
+💬 Ask me about ReactJs  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=brightgreen&style=flat" alt="simranlotey" /> </p>
 

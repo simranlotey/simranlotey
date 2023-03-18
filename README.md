@@ -9,7 +9,7 @@
 
 🤔 I’m looking to collaborate on Opensource projects
 
-💬 Ask me about ReactJs or wish other frontend technology
+💬 Ask me about ReactJs or with other frontend technology
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=brightgreen&style=flat" alt="simranlotey" /> </p>

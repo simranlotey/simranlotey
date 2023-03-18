@@ -7,7 +7,7 @@
 - I'm MCA student of guru nanak dev engineering college 👨‍🎓
 - I'm frontend developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=0e75b6&style=flat" alt="simranlotey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=brightgreen&style=flat" alt="simranlotey" /> </p>
 
 **Languages and Tools:** 
 

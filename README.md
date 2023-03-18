@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=1e7a38&style=flat" alt="simranlotey" /> </p>
 
-**Languages and Tools:** 
+#### Languages and Tools:
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 

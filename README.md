@@ -3,9 +3,9 @@
 
 🚀 My name is Simranpreet Singh
 
-👨‍🎓 I'm MCA student of Guru Nanak Dev Engineering College
+👨‍🎓 I'm an MCA student at Guru Nanak Dev Engineering College
 
-👨‍💻 I'm Frontend developer
+👨‍💻 I'm a Frontend developer
 
 🤔 I’m looking to collaborate on Opensource projects
 

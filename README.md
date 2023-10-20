@@ -24,4 +24,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranlotey&theme=vue-dark&layout=compact&hide_border=true" /> 
 
-[![](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/simranloteyy)
+[![](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/simranlotey)

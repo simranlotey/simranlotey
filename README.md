@@ -14,7 +14,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranlotey&label=Profile%20views&color=1e7a38&style=flat" alt="simranlotey" /> </p>
 
-<a href="https://github.com/simranlotey/stargazers"><img src="https://img.shields.io/github/stars/simranlotey" alt="Stars Badge"/></a>
+<img
+    alt="GitHub Repo stars"
+    src="https://img.shields.io/github/stars/simranlotey?color=1e7a38&logo=github"
+  />
 
 #### Languages and Tools:
 
